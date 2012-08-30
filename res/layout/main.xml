@@ -24,6 +24,14 @@
             android:textOff="Bt OFF"
             android:text="ToggleButton" />
 
+        <ToggleButton
+            android:id="@+id/tb_service"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOn="Sv ON"
+            android:textOff="Sv OFF"
+            android:text="ToggleButton" />
+
     </LinearLayout>
 
 </LinearLayout>
